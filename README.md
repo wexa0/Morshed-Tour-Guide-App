@@ -1,6 +1,5 @@
-![Morshed-logo](https://github.com/user-attachments/assets/3bf2c655-f114-4a5c-9b74-868f0d1cca62)
+![Morshed-logo](https://github.com/user-attachments/assets/d9dcf4c5-ccb4-47ae-80a6-843ac1e35783)
 
----
 
 # Morshed - Travel Experience Platform
 ---
