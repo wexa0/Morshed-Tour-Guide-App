@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Downloads/Morshed-logo.png" alt="Morshed Logo" width="500" height="auto">
+  <img src="C:\Users\wexa0\Downloads\Morshed-logo.png" alt="Morshed Logo" width="500" height="auto">
 </div>
 
 ---
@@ -12,7 +12,7 @@
 
 ---
 
-### 🎯 🛠️ Problem
+### 🛠️ Problem
 In today's travel industry, many travelers miss out on enriching experiences due to a lack of detailed information about guided tours. Key issues include:
         
 - Lack of transparency regarding tour itineraries, pricing, and tour type (private vs. shared).
