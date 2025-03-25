@@ -5,7 +5,7 @@
 ---
 
 ## 📘 Overview
-*Morshed* is an innovative platform designed to simplify the process of finding and booking guided tours. It empowers tour guides to post their tours with precise details, while providing travelers with easy access to customized tours that match their preferences. With integrated communication features, travelers can make informed decisions before booking, ensuring a smooth and enjoyable travel experience.</p>
+**Morshed** is an innovative platform designed to simplify the process of finding and booking guided tours. It empowers tour guides to post their tours with precise details, while providing travelers with easy access to customized tours that match their preferences. With integrated communication features, travelers can make informed decisions before booking, ensuring a smooth and enjoyable travel experience.</p>
 
 ---
 
