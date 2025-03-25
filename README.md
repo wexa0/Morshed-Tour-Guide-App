@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/Morshed-logo.png" alt="Morshed Logo" width="500" height="auto">
+  <img src="Downloads/Morshed-logo.png" alt="Morshed Logo" width="500" height="auto">
 </div>
 
 ---
