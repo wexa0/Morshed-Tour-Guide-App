@@ -1,7 +1,7 @@
 ![Morshed-logo](https://github.com/user-attachments/assets/d9dcf4c5-ccb4-47ae-80a6-843ac1e35783)
 
 
-# Morshed - Travel Experience Platform
+# Morshed - Tour Guide App
 ---
 
 ## 📘 Overview
